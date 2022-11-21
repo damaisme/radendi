@@ -10,7 +10,8 @@ Enthusiastic and motivated self-learning about information technology. Focused o
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radendi&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
-<p align="center">
+
+<p align="">
   <a href="https://www.linkedin.com/in/damasukma/">
     <img src="https://img.shields.io/badge/-damasukma%20trihanandi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
