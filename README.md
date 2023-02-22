@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Enthusiastic and motivated self-learning about information technology. Focused on cloud computing, devsecops, and web development. Now I am looking for more experience in my field. 
+Enthusiastic and motivated self-learning about information technology. Focused on cloud computing, devsecops, and web development.
 
 
 <a href="https://github.com/radendi" align="center">
