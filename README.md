@@ -2,10 +2,6 @@
 
 Enthusiastic and motivated self-learning about information technology. Focused on cloud computing, devsecops, and web development.
 
-
-<a href="https://github.com/radendi" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=radendi&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
 <a href="https://github.com/radendi" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radendi&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
